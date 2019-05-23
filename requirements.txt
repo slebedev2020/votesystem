@@ -1,0 +1,8 @@
+aiohttp
+aiohttp_jinja2
+trafaret
+trafaret_config
+typing
+asyncio
+dataclasses
+db-sqlite3
